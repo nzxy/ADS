@@ -3,6 +3,6 @@ Crude batch script that will remotely connect to a computer’s c$ admin share a
 
 ## ADS Batch Script
 
- ** The Script runs inside a program that allows users to complete three tasks: **
+ **The Script runs inside a program that allows users to complete three tasks:**
 
 ! vfjkgkfa
