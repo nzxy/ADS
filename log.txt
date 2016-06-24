@@ -1,0 +1,37 @@
+
+  
+* 
+--------------------------- 
+Script is processing the computers listed in cpu.txt 
+--------------------------- 
+Comp Name is ITE00421987   
+Pinging ITE00421987... 
+ITE00421987 was up 
+Checking application installation logs... 
+Path	Verified	Date	Publisher	Company	Description	Product	Product Version	File Version	Machine Type
+x:\program files (x86)\quicktime\QuickTimePlayer.exe	Signed	4:10 PM 12/15/2015	Apple Inc.	Apple Inc.	QuickTime Player	QuickTime	QuickTime 7.7.9 (1680.95.84)	7.7.9 (Dev)	32-bit
+ITE00421987 file check complete 
+ITE00421987 logs copied to C:\ADSlogs 
+--------------------------- 
+Comp Name is ITE00420167   
+Pinging ITE00420167... 
+ITE00420167 was down 
+--------------------------- 
+Comp Name is ITE00416541   
+Pinging ITE00416541... 
+ITE00416541 was up 
+Checking application installation logs... 
+Path	Verified	Date	Publisher	Company	Description	Product	Product Version	File Version	Machine Type
+x:\program files (x86)\quicktime\QuickTimePlayer.exe	Signed	4:10 PM 12/15/2015	Apple Inc.	Apple Inc.	QuickTime Player	QuickTime	QuickTime 7.7.9 (1680.95.84)	7.7.9 (Dev)	32-bit
+ITE00416541 file check complete 
+ITE00416541 logs copied to C:\ADSlogs 
+--------------------------- 
+Comp Name is DC30PCE00376579   
+Pinging DC30PCE00376579... 
+DC30PCE00376579 was up 
+Checking application installation logs... 
+Path	Verified	Date	Publisher	Company	Description	Product	Product Version	File Version	Machine Type
+x:\program files (x86)\quicktime\QuickTimePlayer.exe	Signed	4:10 PM 12/15/2015	Apple Inc.	Apple Inc.	QuickTime Player	QuickTime	QuickTime 7.7.9 (1680.95.84)	7.7.9 (Dev)	32-bit
+DC30PCE00376579 file check complete 
+DC30PCE00376579 logs copied to C:\ADSlogs 
+--------------------------- 
