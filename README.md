@@ -13,7 +13,8 @@ Crude batch script that will remotely connect to a computer’s c$ admin share a
 
 ## ADS Batch Script Details
 - Computers must be on the same domain and a text file must be made to specify which computers 
-  to run sigcheck on. Put the file in active directory and run the script as administrator.
+  to run sigcheck on. 
+- Put the file in active directory and run the script as administrator.
 - The script determines whether the computer is up or down by pinging and reporting its status. 
 - The script creates a log in the C: folder under ADSlogs.
 - Replace the executable and log file directories to report on other applications. 
