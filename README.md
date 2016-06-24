@@ -11,4 +11,5 @@ ADS BATCH SCRIPT:
        - The script creates a log in the C: folder under ADSlogs.
        - Replace the executable and log file directories to report on other applications. 
          The default application is Quicktime. 
- 3. Exits the script.
+ 
+3. Exits the script.
